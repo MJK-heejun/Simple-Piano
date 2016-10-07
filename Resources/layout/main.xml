@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    >
+<ImageView
+        android:src="@android:drawable/ic_menu_gallery"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/key_c"
+        android:layout_weight="1"
+        android:scaleType="fitXY"
+        android:clickable="true" />
+    <ImageView
+        android:src="@android:drawable/ic_menu_gallery"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/key_d"
+        android:layout_weight="1"
+        android:scaleType="fitXY"
+        android:clickable="true" />
+    <ImageView
+        android:src="@android:drawable/ic_menu_gallery"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/key_e"
+        android:layout_weight="1"
+        android:scaleType="fitXY"
+        android:clickable="true" />
+    <ImageView
+        android:src="@android:drawable/ic_menu_gallery"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/key_f"
+        android:layout_weight="1"
+        android:scaleType="fitXY"
+        android:clickable="true" />
+    <ImageView
+        android:src="@android:drawable/ic_menu_gallery"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/key_g"
+        android:layout_weight="1"
+        android:scaleType="fitXY"
+        android:clickable="true" />
+    <ImageView
+        android:src="@android:drawable/ic_menu_gallery"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/key_h"
+        android:layout_weight="1"
+        android:scaleType="fitXY"
+        android:clickable="true" />
+    <ImageView
+        android:src="@android:drawable/ic_menu_gallery"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/key_i"
+        android:layout_weight="1"
+        android:scaleType="fitXY"
+        android:clickable="true" />
+    <ImageView
+        android:src="@android:drawable/ic_menu_gallery"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/key_c2"
+        android:layout_weight="1"
+        android:scaleType="fitXY"
+        android:clickable="true" />
+</LinearLayout>
