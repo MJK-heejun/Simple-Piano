@@ -1,4 +1,0 @@
-SimplePiano.SimplePiano, SimplePiano;md516c68cc5fbcde3b0af34020b80bf51c4.SimplePiano
-SimplePiano.SimplePiano, SimplePiano, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md516c68cc5fbcde3b0af34020b80bf51c4.SimplePiano
-SimplePiano.SimplePiano;md516c68cc5fbcde3b0af34020b80bf51c4.SimplePiano
-simplepiano.SimplePiano;md516c68cc5fbcde3b0af34020b80bf51c4.SimplePiano
